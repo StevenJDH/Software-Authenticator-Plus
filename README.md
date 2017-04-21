@@ -15,6 +15,10 @@ Changelog: https://github.com/StevenJDH/Software-Authenticator-Plus/wiki/Changel
 * 2FA private key generator with QRCode that can be saved.
 * Application sits on top of all applications.
 
+### Compatibility
+
+Just like Google Authenticator on smartphones, this software authenticator/token is compatible with websites that use 32-bit private keys for two-factor authentication like Google, Kraken Bitcoin Exchange, LastPass, Dropbox, and many others.
+
 ### TODO
 * Add multiple private key support.
 
