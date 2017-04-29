@@ -1,8 +1,8 @@
 # Software Authenticator Plus
 
-A modern looking cross-platform TOTP Authenticator with a private key generator.
+A modern looking cross-platform TOTP Authenticator with a private key generator. This tool is great for those who don't always want to use their phone to generate codes.
 
-![alt text](https://github.com/StevenJDH/Software-Authenticator-Plus/raw/master/ss-windows.png "Screenshot")
+![alt text](https://github.com/StevenJDH/Software-Authenticator-Plus/raw/master/ss-mac.png "OS X screenshot")
 
 https://github.com/StevenJDH/Software-Authenticator-Plus
 
