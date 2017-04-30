@@ -9,7 +9,7 @@ https://github.com/StevenJDH/Software-Authenticator-Plus
 Changelog: https://github.com/StevenJDH/Software-Authenticator-Plus/wiki/Changelog
 
 ## Features
-* Realistic looking LCD panel and digital out.
+* Realistic looking LCD panel and digital output.
 * The TOTP password will change to orange and then red as it is about to change.
 * Double tap password to automatically save to clipboard.
 * Cross-platform support for Windows, OS X, and Linux.
