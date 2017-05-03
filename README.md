@@ -31,6 +31,9 @@ This is just one of many tools and applications I’ve created over the years fo
 Many commonly asked questions are answered in the FAQ:
 https://github.com/StevenJDH/Software-Authenticator-Plus/wiki/FAQ
 
+## Need to contact me?
+I can be reached here directly at https://21.co/stevenjdh
+
 ## Want to show your support?
 Method | Address
 ------------ | -------------
