@@ -32,7 +32,6 @@ Many commonly asked questions are answered in the FAQ:
 https://github.com/StevenJDH/Software-Authenticator-Plus/wiki/FAQ
 
 ## Want to show your support?
-
 Method | Address
 ------------ | -------------
 PayPal: | https://www.paypal.me/stevenjdh
