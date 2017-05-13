@@ -4,7 +4,7 @@ A modern looking cross-platform TOTP Authenticator with a private key generator.
 
 ![alt text](https://github.com/StevenJDH/Software-Authenticator-Plus/raw/master/ss-mac.png "OS X screenshot")
 
-https://github.com/StevenJDH/Software-Authenticator-Plus
+Releases: https://github.com/StevenJDH/Software-Authenticator-Plus/releases
 
 Changelog: https://github.com/StevenJDH/Software-Authenticator-Plus/wiki/Changelog
 
