@@ -337,10 +337,10 @@ public class Main extends javax.swing.JFrame {
     }//GEN-LAST:event_mnuExitActionPerformed
 
     private void mnuAboutActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_mnuAboutActionPerformed
-        JOptionPane.showMessageDialog(this, "Software Authenticator Plus 1.0 (19/05/2013)\n\n"
+        JOptionPane.showMessageDialog(this, "Software Authenticator Plus 1.1 (02/02/2018)\n\n"
             + "Author: Steven Jenkins De Haro\n"
             + "A Steve Creation/Convergence\n\n"
-            + "Java 1.7 JDK", "Software Authenticator Plus", JOptionPane.PLAIN_MESSAGE);
+            + "Java 1.8 JDK", "Software Authenticator Plus", JOptionPane.PLAIN_MESSAGE);
     }//GEN-LAST:event_mnuAboutActionPerformed
 
     private void mnuDonateActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_mnuDonateActionPerformed
