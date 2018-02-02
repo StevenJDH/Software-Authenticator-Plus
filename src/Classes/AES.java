@@ -12,8 +12,7 @@ package Classes;
 import java.security.Key;
 import javax.crypto.Cipher;
 import javax.crypto.spec.SecretKeySpec;
-import sun.misc.BASE64Decoder; //BASE64Decoder is internal proprietary API and may be removed in a future release. Cane be replaced with Apache commons.
-import sun.misc.BASE64Encoder; //BASE64Encoder is internal proprietary API and may be removed in a future release. Cane be replaced with Apache commons.
+import java.util.Base64;
 
 
 public class AES {
@@ -26,7 +25,7 @@ public static String encrypt(String Data) throws Exception {
         Cipher chiper = Cipher.getInstance(ALGO);
         chiper.init(Cipher.ENCRYPT_MODE, key);
         byte[] encVal = chiper.doFinal(Data.getBytes());
-        String encryptedValue = new BASE64Encoder().encode(encVal);
+        String encryptedValue = Base64.getEncoder().encodeToString(encVal);
         return encryptedValue;
     }
 
@@ -34,7 +33,7 @@ public static String encrypt(String Data) throws Exception {
         Key key = generateKey();
         Cipher chiper = Cipher.getInstance(ALGO);
         chiper.init(Cipher.DECRYPT_MODE, key);
-        byte[] decordedValue = new BASE64Decoder().decodeBuffer(encryptedData);
+        byte[] decordedValue = Base64.getDecoder().decode(encryptedData);
         byte[] decValue = chiper.doFinal(decordedValue);
         String decryptedValue = new String(decValue);
         return decryptedValue;
