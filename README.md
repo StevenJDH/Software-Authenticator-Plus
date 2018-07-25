@@ -22,7 +22,7 @@ Changelog: [https://github.com/StevenJDH/Software-Authenticator-Plus/wiki/Change
 Just like Google Authenticator on smartphones, this software authenticator/token is compatible with websites that use 32-bit private keys for two-factor authentication like GitHub, Google, Kraken Bitcoin Exchange, LastPass, Dropbox, and many others.
 
 ## TODO
-- [ ] Add multiple private key support.
+* Add multiple private key support.
 
 ## Why am I contributing?
 This is just one of many tools and applications I’ve created over the years for myself that I thought I should share with the public. I am new to GitHub so bear with me while I get adjusted. Hopefully, with community support, some of these applications will grow into something better.
@@ -46,7 +46,7 @@ I can be reached here directly at [https://21.co/stevenjdh](https://21.co/steven
 |Zcash:       | t1a2Kr3jFv8WksgPBcMZFwiYM8Hn5QCMAs5                                                                        |
 |PIVX:        | DQq2qeny1TveZDcZFWwQVGdKchFGtzeieU                                                                         |
 |Ripple:      | rLHzPsX6oXkzU2qL12kHCH8G8cnZv1rBJh<br />Destination Tag: 2357564055                                        |
-|Monero:      | 4GdoN7NCTi8a5gZug7PrwZNKjvHFmKeV11L6pNJPgj5QNEHsN6eeX3DaAQFwZ1ufD4LYCZKArktt113W7QjWvQ7CWDXrwM8yCGgEdhV3Wt |
+|Monero:      | 4GdoN7NCTi8a5gZug7PrwZNKjvHFmKeV11L6pNJPgj5QNEHsN6eeX3D&#8617;<br />aAQFwZ1ufD4LYCZKArktt113W7QjWvQ7CWDXrwM8yCGgEdhV3Wt|
 
 
 // Steven JDH ("StevenJDH" on GitHub)
