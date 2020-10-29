@@ -1,8 +1,12 @@
 # Software Authenticator Plus
 
+![GitHub All Releases](https://img.shields.io/github/downloads/StevenJDH/Software-Authenticator-Plus/total)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/StevenJDH/Software-Authenticator-Plus?include_prereleases)
+![GitHub](https://img.shields.io/github/license/StevenJDH/Software-Authenticator-Plus)
+
 A modern looking cross-platform TOTP Authenticator with a private key generator. This tool is great for those who don't always want to use their phone to generate codes.
 
-![Program Screenshot](https://github.com/StevenJDH/Software-Authenticator-Plus/raw/master/ss-mac.png "OS X screenshot")
+![Program Screenshot](ss-mac.png "OS X screenshot")
 
 Releases: [https://github.com/StevenJDH/Software-Authenticator-Plus/releases](https://github.com/StevenJDH/Software-Authenticator-Plus/releases)
 
@@ -23,15 +27,9 @@ Just like Google Authenticator on smartphones, this software authenticator/token
 ## TODO
 * Add multiple private key support.
 
-## Why am I contributing?
-This is just one of many tools and applications I’ve created over the years for myself that I thought I should share with the public. I am new to GitHub so bear with me while I get adjusted. Hopefully, with community support, some of these applications will grow into something better.
-
 ## Do you have any questions?
 Many commonly asked questions are answered in the FAQ:
 [https://github.com/StevenJDH/Software-Authenticator-Plus/wiki/FAQ](https://github.com/StevenJDH/Software-Authenticator-Plus/wiki/FAQ)
-
-## Need to contact me?
-I can be reached here directly at [https://21.co/stevenjdh](https://21.co/stevenjdh "Contact Page")
 
 ## Want to show your support?
 
